@@ -1,3 +1,5 @@
+//taim khan
+
 // Question 1: Square each element of an array using map
 const number = [1, 2, 3, 4, 5];
 const squaredNumbers = number.map((num) => num * num);
